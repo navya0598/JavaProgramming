@@ -1,4 +1,4 @@
-package JavaPrograms.Java;
+package JavaPackage;
 
 public class ReverseAStringExample {
 
