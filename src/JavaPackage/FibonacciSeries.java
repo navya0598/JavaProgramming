@@ -1,7 +1,5 @@
 package JavaPackage;
 
-import java.util.Scanner;
-
 public class FibonacciSeries {
 
 	public static void main(String[] args) {
